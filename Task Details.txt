@@ -11,6 +11,6 @@ Endpoints:
 /bookings/customers-details (GET) - List all customers with booked data
 /bookings/booking-details (GET) - List how many times a customer has booked the room with detailed information
 
-Github Repo - https://github.com/RakeshV0498/hall-booking.git 
+Github Repo - https://github.com/ItzAmarnath/Hallbooking.git 
 
 PostMan Documentaion - https://documenter.getpostman.com/view/35033389/2sA3QqgtGm 
